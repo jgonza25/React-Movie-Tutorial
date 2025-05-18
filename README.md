@@ -6,6 +6,7 @@ Welcome to the **React Movie Tutorial** – a simple, responsive web application
 
 Demo Screenshot
 <img width="1671" alt="Screenshot 2025-05-18 at 1 04 23 PM" src="https://github.com/user-attachments/assets/e7f65c33-9194-4605-9126-2264d20af76c" />
+<br>
 <img width="1671" alt="Screenshot 2025-05-18 at 1 07 47 PM" src="https://github.com/user-attachments/assets/f43b6ec9-ee17-46a7-bae7-4088e71eb0e0" />
 
 

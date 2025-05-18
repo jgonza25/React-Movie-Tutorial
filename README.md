@@ -27,7 +27,6 @@ Demo Screenshot
 * JavaScript (ES6+)
 * HTML5 & CSS3
 * TMDb API
-* GitHub Pages (for deployment)
 
 ---
 

@@ -1,7 +1,3 @@
-Here’s a well-structured `README.md` for your **React Movie Tutorial** website:
-
----
-
 # 🎬 React Movie Tutorial
 
 Welcome to the **React Movie Tutorial** – a simple, responsive web application built with React that showcases popular movies using The Movie Database (TMDb) API.
@@ -115,7 +111,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Jimmy Gonzalez**
 GitHub: [@jgonza25](https://github.com/jgonza25)
-
----
-
-Let me know if you'd like to include an API key setup section or instructions on how to customize the app!

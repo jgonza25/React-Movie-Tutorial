@@ -4,7 +4,8 @@ Welcome to the **React Movie Tutorial** – a simple, responsive web application
 
 🌐 **Live Demo**: [React Movie Tutorial Website](https://jgonza25.github.io/React-Movie-Tutorial/)
 
-![Demo Screenshot](<img width="1671" alt="Screenshot 2025-05-18 at 1 04 23 PM" src="https://github.com/user-attachments/assets/e7f65c33-9194-4605-9126-2264d20af76c" />)
+![Demo Screenshot]
+<img width="1671" alt="Screenshot 2025-05-18 at 1 04 23 PM" src="https://github.com/user-attachments/assets/e7f65c33-9194-4605-9126-2264d20af76c" />
 
  <!-- Optional: Replace with actual screenshot URL -->
 
